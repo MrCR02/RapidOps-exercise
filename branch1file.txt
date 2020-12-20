@@ -1,1 +1,2 @@
 This file is inside branch 1
+I updated branch 1 file
