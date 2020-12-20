@@ -1,1 +1,2 @@
 This file is insie branch 2
+I updated branch 2 file
